@@ -1,0 +1,83 @@
+body
+{
+	background-color: dimgray;
+}
+#header
+{
+	margin:  50px;
+	padding: 20px;
+	width:  auto;
+	border-radius: 10px;
+	text-align: center;
+	font: sans-serif;
+	font-family: sans-serif;
+	font-size: 35px;
+	color: black;
+	background-color: lightsteelblue;
+}
+#intro
+{
+	text-align: center;
+	font:  sans-serif;
+	font-family: sans-serif;
+	font-size: 20px;
+	color: black;
+
+}
+img
+{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+	max-width:  200px;
+	max-height: 200px;
+	align-content: center;
+	border-radius: 60%;
+}
+#github
+{
+	margin: auto;
+	padding: 5px;
+	width: 20%;
+	border-radius: 10px;
+	text-align: center;
+	font:  sans-serif;
+	font-family: sans-serif;
+	font-size:  20px;
+	font-weight: bold;
+	color: white;
+	background-color: black;
+}
+#workheader
+{
+	width: 20%;
+	text-align: center;
+	background-color: lightsteelblue;
+	margin: auto;
+	border-radius: 10px;
+	font-size: 25px;
+	font-family: sans-serif;
+	font: sans-serif;
+}
+#skillswork
+{
+	text-align: center;
+	font: sans-serif;
+	font-family: sans-serif;
+	font-size: 20px;
+}
+#footer
+{
+	margin:  50px;
+	padding: 20px;
+	width:  auto;
+	border-radius: 10px;
+	text-align: center;
+	font: sans-serif;
+	font-family: sans-serif;
+	font-size: 20px;
+	font-weight: bold;
+	color: black;
+	background-color: lightsteelblue;
+}
